@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "hexDensity"]
+	path = hexDensity
+	url = https://github.com/chenlaboratory/hexdensity
